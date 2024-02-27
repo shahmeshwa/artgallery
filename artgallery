@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Welcome to the Virtual Art Gallery</h1>
-    <img src="art-gallery-image.png" alt="Elegant Art Gallery" style="width:100%;max-width:600px;">
+    <img src="https://github.com/shahmeshwa/artgallery/blob/6dbf9e99a79b836d1eeefc3d58b971d654bdc9f6/artgallery_image.webp" alt="Elegant Art Gallery" style="width:100%;max-width:600px;">
     <p>Explore our unique collection of art pieces.</p>
     <a href="content.html">Learn more about our collection</a>
 </body>
