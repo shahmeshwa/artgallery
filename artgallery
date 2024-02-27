@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Art Gallery</title>
+</head>
+<body>
+    <h1>Welcome to the Virtual Art Gallery</h1>
+    <img src="art-gallery-image.png" alt="Elegant Art Gallery" style="width:100%;max-width:600px;">
+    <p>Explore our unique collection of art pieces.</p>
+    <a href="content.html">Learn more about our collection</a>
+</body>
+</html>
